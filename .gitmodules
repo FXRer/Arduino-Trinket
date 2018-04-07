@@ -1,0 +1,3 @@
+[submodule "WorkoutAid"]
+	path = WorkoutAid
+	url = git@github.com:mikeneiderhauser/WorkoutAid.git
